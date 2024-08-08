@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student in the Department of Human Development and Family Science at Virginia Tech. I received my master's degree in Human Development from the same department in 2024.
+I am a Ph.D. student in the [Department of Human Development and Family Science](https://hdfs.vt.edu) at [Virginia Tech](https://www.vt.edu)). I received the M.S. in Human Development from the same department in Spring 2024. My research interests center on understanding the influences of technology on children’s development within the family context.
 
 My main research focuses on understanding the influences of screen media tools on children’s developmental outcomes within the context of families. Given the ubiquitous nature of screen media in children’s lives, it holds significant implications for their development, and my research has been focusing on examining various parental factors that contributed to children’s screen use as parents play a seminal role in young children’s media exposure.
 

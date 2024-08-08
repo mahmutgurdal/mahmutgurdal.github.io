@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 I am a doctoral student in the Department of Human Development and Family Science at Virginia Tech. I received my master's degree in Human Development from the same department in 2024.
+
 My main research focuses on understanding the influences of screen media tools on children’s developmental outcomes within the context of families. Given the ubiquitous nature of screen media in children’s lives, it holds significant implications for their development, and my research has been focusing on examining various parental factors that contributed to children’s screen use as parents play a seminal role in young children’s media exposure.
+
 I am currently working as a graduate research assistant supporting for projects within the Cognitive Developmental Science Lab and the Child Development Center for Learning and Research at Virginia Tech. .
 
 A data-driven personal website

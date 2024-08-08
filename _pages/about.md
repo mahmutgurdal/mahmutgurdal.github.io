@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Human Development and Family Science](https://hdfs.vt.edu) at [Virginia Tech](https://www.vt.edu)). I received the M.S. in Human Development from the same department in Spring 2024. My research interests center on understanding the influences of technology on children’s development within the family context.
+I am a Ph.D. student in the [Department of Human Development and Family Science](https://hdfs.vt.edu) at [Virginia Tech](https://www.vt.edu). I received the M.S. in Human Development from the same department in Spring 2024. My research interests center on understanding the influences of technology on children’s development within the family context.
 
-My main research focuses on understanding the influences of screen media tools on children’s developmental outcomes within the context of families. Given the ubiquitous nature of screen media in children’s lives, it holds significant implications for their development, and my research has been focusing on examining various parental factors that contributed to children’s screen use as parents play a seminal role in young children’s media exposure.
+I am currently focusing on examining various parental factors that contributed to children’s screen use as parents play a seminal role in young children’s media exposure. Specifically, I investigate how both parental and child self-regulation -—including emotional, behavioral, and cognitive aspects—- affect parental and child screen use as well as how parental and child screen use, in turn, impact their self-regulation skills. Furthermore, I examine the effects of media interactivity, content, and context of screen media use on these relations.
 
 I am currently working as a graduate research assistant supporting for projects within the Cognitive Developmental Science Lab and the Child Development Center for Learning and Research at Virginia Tech. .
 

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Human Development**, Virginia Tech, Blacksburg, VA, 2027 (expected)
+* **M.S. in Human Development**, Virginia Tech, Blacksburg, VA, 2024
+* **B.S. in Psychology**, Özyeğin University, İstanbul, Turkiye, 2012
 
 Work experience
 ======

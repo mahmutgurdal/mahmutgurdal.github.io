@@ -16,5 +16,7 @@ I am currently working as a graduate research assistant supporting for projects 
 
 **Recent news**
 
-- **May 2024**    Obrained the M.S. in Human Development at Virginia Tech.
-- **April 2024**  Awarded the Outstanding Master's Student Award from the Graduate School at Virginia Tech!  
+- **May 2024**  —  Obrained the **M.S. in Human Development** at Virginia Tech.
+- **April 2024**  —  Awarded the **Outstanding Master's Student Award** from the Graduate School at Virginia Tech  
+- **March 2024**  —  **Poster presented** at the Cognitive Development Soceity 2024 Bi-Ennial Conference
+

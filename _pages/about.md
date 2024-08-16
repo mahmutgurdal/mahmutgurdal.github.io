@@ -13,6 +13,7 @@ I am currently focusing on examining various parental factors that contributed t
 
 I am currently working as a graduate research assistant supporting for projects within the [Cognitive Developmental Science Lab](https://kchoi.org/) and the [Child Development Center for Learning and Research](https://cdclr.hdfs.vt.edu/research/) at Virginia Tech.
 
+Click for [CV](https://mahmutgurdal.github.io/files/GurdalCV.pdf)!
 
 **Recent news**
 * **May 2024:** Obtained the M.S. in Human Development at Virginia Tech

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Buse Çarık"
+title                    : "Mahmut Sami Gurdal"
 title_separator          : "-"
-name                     : &name "Buse Çarık"
-description              : &description "Buse's Website"
-url                      : https://busecarik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mahmut Sami Gurdal"
+description              : &description "Mahmut's Website"
+url                      : https://mahmutgurdal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "busecarik/busecarik.github.io"
+repository               : "mahmutgurdal/mahmutgurdal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Buse Çarık"
+  name             : "Mahmut Sami Gurdal"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Virginia Tech"
-  location         : "Blacksburg, Virginia, US"
+  location         : "Blacksburg, VA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0kemVU8AAAAJ&hl=en"
-  email            : "buse@vt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sfG1lg4AAAAJ"
+  email            : "msgurdal@vt.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "busecarik"
+  github           : "mahmutgurdal"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/buse%C3%A7ar%C4%B1k/
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/msgurdal"
+  orcid            : "https://orcid.org/0000-0002-2983-2156"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "buse_carik"
+  twitter          : "msamigurdal"
   vine             :
   weibo            :
   xing             :

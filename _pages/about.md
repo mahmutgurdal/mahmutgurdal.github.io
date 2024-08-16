@@ -20,3 +20,8 @@ I am currently working as a graduate research assistant supporting for projects 
 - **April 2024** | Awarded the **Outstanding Master's Student Award** at Virginia Tech  
 - **March 2024** | **Poster presented** at the CDS 2024 Conference
 
+<p style="display: inline-block; width: 100px;">May 2024</p> Obtained the M.S. in Human Development at Virginia Tech.<br>
+<p style="display: inline-block; width: 100px;">April 2024</p> Awarded the Outstanding Master's Student Award at Virginia Tech<br>
+<p style="display: inline-block; width: 100px;">March 2024</p> Poster presented at the CDS 2024 Conference
+
+

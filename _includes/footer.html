@@ -1,5 +1,12 @@
 {% include base_path %}
 
 <div class="page__footer-follow" style="text-align: center; font-size: 9px;">
-    © 2024 Mahmut Sami Gurdal. Powered by <a href="http://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/">Minimal Mistakes</a>.
+    © <span id="current-year"></span> Mahmut Sami Gurdal. Powered by 
+    <a href="http://jekyllrb.com/">Jekyll</a> & 
+    <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, 
+    a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/">Minimal Mistakes</a>.
 </div>
+
+<script>
+  document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>

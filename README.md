@@ -1,2 +1,2 @@
-# busecarik.github.io
+# mahmutgurdal.github.io
 Personal Website

@@ -187,6 +187,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:contact/:path/
 
 
 # Defaults

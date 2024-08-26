@@ -16,7 +16,8 @@ I am currently working as a graduate research assistant supporting for projects 
 Click for [CV](https://mahmutgurdal.github.io/files/GurdalCV.pdf)!
 
 **Recent news**
-* **May 2024:** Obtained the M.S. in Human Development at Virginia Tech
+* **May 2024:** Obtained the M.S. in Human Development at Virginia Tech. Click for the [thesis](https://hdl.handle.net/10919/119120)!
+* **May 2024:** Published a new article! Click for the [article](https://doi.org/10.37870/joqie.v14i23.430)!
 * **April 2024:** Awarded the Outstanding Master's Student Award at Virginia Tech
 * **March 2024:** Poster presented at the CDS 2024 Conference
 * **February 2024:** Delivered a talk at a Brown Bag event of VT HDFS

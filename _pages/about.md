@@ -18,6 +18,6 @@ Click for [CV](https://mahmutgurdal.github.io/files/GurdalCV.pdf)!
 **Recent news**
 * **May 2024:** Obtained the M.S. in Human Development at Virginia Tech. Click for the [thesis](https://hdl.handle.net/10919/119120)!
 * **May 2024:** Published a new article. Click for the [article](https://doi.org/10.37870/joqie.v14i23.430)!
-* **April 2024:** Awarded the Outstanding Master's Student Award at Virginia Tech
-* **March 2024:** Poster presented at the CDS 2024 Conference
-* **February 2024:** Delivered a talk at a Brown Bag event of VT HDFS
+* **April 2024:** Awarded the Outstanding Master's Student Award at Virginia Tech. Click for the [news](https://news.vt.edu/articles/2024/04/gradschool-2024-awards.html)! 
+* **March 2024:** Poster presented at the CDS 2024 Conference. Click for the [abstract](https://cogdevsoc.org/wp-content/uploads/2024/03/CDS-Abstract-Book-2024-1.pdf) *(p. 215)*!
+* **February 2024:** Delivered a talk at a Brown Bag event of VT HDFS.

@@ -11,7 +11,7 @@ I am a Ph.D. candidate in the [Department of Human Development and Family Scienc
 
 I am currently focusing on examining various parental factors that contributed to children’s screen use as parents play a seminal role in young children’s media exposure. Specifically, I investigate how both parental and child self-regulation—including behavioral, emotional, and cognitive levels—affect parental and child screen use as well as how parental and child screen use, in turn, impact their self-regulation. Furthermore, I examine the effects of media interactivity, content, and context of screen media use on these relations.
 
-I am currently working as a graduate research assistant supporting for projects within the [Cognitive Developmental Science Lab](https://kchoi.org/) at Virginia Tech.
+I am currently working as a graduate research assistant supporting for projects within the [Cognitive Developmental Science (CoDeS) Lab](https://kchoi.org/) at Virginia Tech.
 
 Click for [CV](https://mahmutgurdal.github.io/files/GurdalCV.pdf)!
 

@@ -16,6 +16,7 @@ I am currently working as a graduate research assistant supporting for projects 
 Click for [CV](https://mahmutgurdal.github.io/files/GurdalCV.pdf)!
 
 **Recent news**
+* **September 2025:** Published a new article in Early Education and Development. _Click for the [article](https://doi.org/10.1080/10409289.2025.2559429)!_
 * **July 2025:** Delivered a talk at the 2025 Digital Media and Developing Minds International Scientific Congress. _Click for the [abstract](https://www.childrenandscreens.org/wp-content/uploads/2025/07/Media-and-Minds-2025-Congress-Abstract-Booklet.pdf)!_
 * **May 2025:** Poster presented at the SRCD 2025 Conference.
 * **November 2024:** VT +Policy Network Policy Impacts Report was published. _Click for the [report](https://policy.isce.vt.edu/research.html)!_

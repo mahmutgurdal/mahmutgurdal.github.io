@@ -8,11 +8,11 @@ redirect_from:
 ---
 I am a doctoral candidate in the [Department of Human Development and Family Science](https://hdfs.vt.edu) at [Virginia Tech](https://www.vt.edu), where I also received my M.S. in Human Development in Spring 2024.
 
-My research program focuses on understanding how children’s self-regulation and temperament shape media use across development, with a particular emphasis on early childhood. In my previous and ongoing work, I have examined associations between maternal emotion regulation and toddlers’ interactive and non-interactive media use, as well as the links between effortful control and media use during the first five years of life.
+My research program focuses on understanding how children’s self-regulation and temperament shape media use across development, with a particular emphasis on early childhood. My ongoing work examines associations between maternal emotion regulation and toddlers’ interactive and non-interactive media use, as well as relations between effortful control and media use during the first five years of life.
 
-Extending this work developmentally, I have studied relations between temperament and problematic media use in preschoolers, middle childhood, and adolescence. I am also interested in person-centered approaches and have examined self-regulation profiles among preschool-aged children.
+Across my doctoral training, I am examining how temperament and self-regulation relate to problematic media use from preschool through middle childhood and adolescence. I am also using person-centered approaches to identify self-regulation profiles among preschool-aged children.
 
-In addition to observational and survey-based research, I am involved in the design and evaluation of an AI-supported parent–child shared reading platform, aimed at promoting positive parent–child interactions during early childhood.
+In addition to observational and survey-based research, I am currently involved in the design and evaluation of an AI-supported parent–child shared reading platform aimed at promoting positive parent–child interactions in early childhood.
 
 I am currently a graduate research assistant in the [Cognitive Developmental Science (CoDeS) Lab](https://kchoi.org/) at Virginia Tech.
 

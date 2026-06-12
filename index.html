@@ -174,25 +174,6 @@
       color: var(--ink-muted); margin-bottom: 0.5rem; font-weight: 500;
     }
 
-    /* CV */
-    #cv .cv-content { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; }
-    .cv-section { margin-bottom: 2.5rem; }
-    .cv-section h3 {
-      font-size: 0.7rem; letter-spacing: 0.13em; text-transform: uppercase;
-      color: var(--accent); font-weight: 500; margin-bottom: 1.1rem;
-      padding-bottom: 0.5rem; border-bottom: 1px solid var(--rule);
-    }
-    .cv-item { margin-bottom: 1.3rem; }
-    .cv-item-year { font-size: 0.74rem; color: var(--ink-muted); font-weight: 500; letter-spacing: 0.04em; margin-bottom: 0.1rem; }
-    .cv-item-title { font-family: var(--font-serif); font-size: 0.97rem; color: var(--ink); line-height: 1.45; }
-    .cv-item-sub { font-size: 0.81rem; color: var(--ink-muted); line-height: 1.4; margin-top: 0.1rem; }
-    .cv-download { margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--rule); }
-    .skill-tag {
-      display: inline-block; font-size: 0.78rem; padding: 0.25rem 0.7rem;
-      background: var(--warm-white); border: 1px solid var(--rule);
-      color: var(--ink-muted); margin: 0.2rem 0.2rem 0.2rem 0;
-    }
-
     /* CONTACT */
     #contact .contact-inner { display: grid; grid-template-columns: 1.2fr 1fr; gap: 5rem; align-items: start; }
     .contact-info p { font-family: var(--font-serif); font-size: 1.05rem; color: var(--ink-light); line-height: 1.8; margin-bottom: 2rem; }
@@ -233,7 +214,7 @@
     @media (max-width: 768px) {
       #hero { flex-direction: column-reverse; gap: 2rem; padding-top: 80px; min-height: auto; padding-bottom: 4rem; }
       .hero-photo { width: 160px; height: 200px; align-self: center; }
-      #about .about-grid, #cv .cv-content, #contact .contact-inner { grid-template-columns: 1fr; gap: 2.5rem; }
+      #about .about-grid, #contact .contact-inner { grid-template-columns: 1fr; gap: 2.5rem; }
       .nav-links { display: none; }
       section { padding: 3.5rem 1.5rem; }
     }
@@ -247,7 +228,7 @@
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#publications">Publications</a></li>
-    <li><a href="#cv">Curriculum Vitae</a></li>
+    <li><a href="https://mahmutgurdal.github.io/files/GurdalCV.pdf" target="_blank">Curriculum Vitae</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -266,7 +247,10 @@
     <div class="hero-links">
       <a href="#about" class="btn btn-primary">About</a>
       <a href="#publications" class="btn btn-outline">Publications</a>
-      <a href="#cv" class="btn btn-outline">Curriculum Vitae</a>
+      <a href="https://mahmutgurdal.github.io/files/GurdalCV.pdf" target="_blank" class="btn btn-outline">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Curriculum Vitae
+      </a>
       <a href="#contact" class="btn btn-outline">Contact</a>
     </div>
     <div class="hero-social">
@@ -333,7 +317,7 @@
 
   <div class="pub-group fade-in">
     <div class="pub-group-label">Journal Articles</div>
-      
+
     <div class="pub-card">
       <div class="pub-status">Accepted</div>
       <div class="pub-title">False memories: Subjective and objective responses to an "accented" voice assistant</div>
@@ -347,7 +331,7 @@
       <div class="pub-authors"><strong>Gürdal, M. S.</strong>, Choi, K., Shin, E., & Smith, C. L.</div>
       <div class="pub-journal">Infant Behavior and Development</div>
     </div>
-    
+
     <div class="pub-card">
       <div class="pub-title">Self-regulation profiles and social competence in early childhood: A person-centered approach</div>
       <div class="pub-authors"><strong>Gürdal, M. S.</strong>, & Acar, İ. H.</div>
@@ -358,10 +342,6 @@
         doi.org/10.1080/10409289.2025.2559429
       </a>
     </div>
-  </div>
-
-  <div class="pub-group fade-in">
-    <div class="pub-group-label">Revised & Resubmitted</div>
   </div>
 
   <div class="pub-group fade-in">
@@ -388,118 +368,10 @@
   </div>
 </section>
 
-<!-- CV -->
-<section id="cv">
-  <div class="section-header fade-in">
-    <span class="section-num">03.</span>
-    <h2>Curriculum Vitae</h2>
-  </div>
-  <div class="cv-content">
-    <div>
-      <div class="cv-section fade-in">
-        <h3>Research Experience</h3>
-        
-        <div class="cv-item">
-          <div class="cv-item-year">2026 – Present</div>
-          <div class="cv-item-title">Research Intern</div>
-          <div class="cv-item-sub">Digital Child Lab, University of Sherbrooke, Quebec/Canada<br/>PI: Caroline Fitzpatrick</div>
-        </div>
-        
-        <div class="cv-item">
-          <div class="cv-item-year">2024 – Present</div>
-          <div class="cv-item-title">Graduate Research Assistant</div>
-          <div class="cv-item-sub">Children's Emotions Lab, Virginia Tech<br/>PI: Cynthia L. Smith</div>
-        </div>
-        
-        <div class="cv-item">
-          <div class="cv-item-year">2023 – Present</div>
-          <div class="cv-item-title">Graduate Research Assistant</div>
-          <div class="cv-item-sub">Cognitive Developmental Science Lab, Virginia Tech<br/>PI: Koeun Choi</div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">2022 – 2025</div>
-          <div class="cv-item-title">Graduate Research Assistant</div>
-          <div class="cv-item-sub">Child Development Center for Learning and Research, Virginia Tech<br/>PI: Isabel Bradburn</div>
-        </div>
-      </div>
-
-      <div class="cv-section fade-in">
-        <h3>Honors & Awards</h3>
-        <div class="cv-item">
-          <div class="cv-item-year">2026</div>
-          <div class="cv-item-title">Outstanding Doctoral Student Award Honorable Mention</div>
-          <div class="cv-item-sub">Virginia Tech</div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">2024</div>
-          <div class="cv-item-title">Outstanding Master's Student</div>
-          <div class="cv-item-sub">Virginia Tech</div>
-        </div>
-      </div>
-    </div>
-
-    <div>
-      <div class="cv-section fade-in">
-        <h3>Teaching Experience</h3>
-        <div class="cv-item">
-          <div class="cv-item-year">Spring 2026</div>
-          <div class="cv-item-title">Childhood and Adolescence</div>
-          <div class="cv-item-sub">Virginia Tech · Instructor of Record</div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">Fall 2025</div>
-          <div class="cv-item-title">Childhood and Adolescence</div>
-          <div class="cv-item-sub">Virginia Tech · Graduate Teaching Assistant</div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">Spring 2023, 2024</div>
-          <div class="cv-item-title">Curriculum in Early Childhood</div>
-          <div class="cv-item-sub">Virginia Tech · Graduate Teaching Assistant</div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">Fall 2022, 2023</div>
-          <div class="cv-item-title">Infancy and Early Childhood</div>
-          <div class="cv-item-sub">Virginia Tech · Graduate Teaching Assistant</div>
-        </div>
-      </div>
-
-      <div class="cv-section fade-in">
-        <h3>Technical Skills</h3>
-        <div class="cv-item">
-          <div class="cv-item-year">Statistical Analysis</div>
-          <div style="margin-top:0.4rem">
-            <span class="skill-tag">SPSS</span>
-            <span class="skill-tag">R Studio</span>
-            <span class="skill-tag">Lisrel</span>
-            <span class="skill-tag">HLM</span>
-            <span class="skill-tag">Mplus</span>
-          </div>
-        </div>
-        <div class="cv-item">
-          <div class="cv-item-year">Experimental Design & Data Collection</div>
-          <div style="margin-top:0.4rem">
-            <span class="skill-tag">PsychoPy</span>
-            <span class="skill-tag">E-Prime</span>
-            <span class="skill-tag">Qualtrics</span>
-            <span class="skill-tag">QuestionPro</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cv-download fade-in">
-    <a href="https://mahmutgurdal.github.io/files/GurdalCV.pdf" target="_blank" class="btn btn-outline">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-      Download Full CV (PDF)
-    </a>
-  </div>
-</section>
-
 <!-- CONTACT -->
 <section id="contact">
   <div class="section-header fade-in">
-    <span class="section-num">04.</span>
+    <span class="section-num">03.</span>
     <h2>Contact</h2>
   </div>
   <div class="contact-inner" style="grid-template-columns:1fr;max-width:680px;">
@@ -543,7 +415,7 @@
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2025 Mahmut Sami Gürdal · Virginia Tech · Human Development and Family Science · Blacksburg, Virginia</p>
+  <p>© 2026 Mahmut Sami Gürdal · Virginia Tech · Human Development and Family Science · Blacksburg, Virginia</p>
 </footer>
 
 <script>

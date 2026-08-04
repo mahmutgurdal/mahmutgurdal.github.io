@@ -173,6 +173,24 @@
       padding: 0.2rem 0.55rem; background: var(--warm-white); border: 1px solid var(--rule);
       color: var(--ink-muted); margin-bottom: 0.5rem; font-weight: 500;
     }
+    .pub-actions { display: flex; align-items: center; gap: 1.2rem; margin-top: 0.5rem; }
+    .pub-abstract-btn {
+      display: inline-flex; align-items: center; gap: 0.35rem;
+      font-size: 0.78rem; color: var(--ink-muted); background: none; border: none;
+      cursor: pointer; padding: 0; font-family: var(--font-sans); letter-spacing: 0.02em;
+      transition: color 0.2s;
+    }
+    .pub-abstract-btn:hover { color: var(--accent); }
+    .pub-abstract-btn svg { transition: transform 0.25s ease; flex-shrink: 0; }
+    .pub-abstract-btn.open svg { transform: rotate(180deg); }
+    .pub-abstract {
+      max-height: 0; overflow: hidden; transition: max-height 0.3s ease, margin-top 0.3s ease;
+    }
+    .pub-abstract.open { max-height: 400px; margin-top: 0.9rem; }
+    .pub-abstract-inner {
+      font-family: var(--font-serif); font-size: 0.92rem; color: var(--ink-light);
+      line-height: 1.7; border-top: 1px solid var(--rule); padding-top: 0.9rem;
+    }
 
     /* CONTACT */
     #contact .contact-inner { display: grid; grid-template-columns: 1.2fr 1fr; gap: 5rem; align-items: start; }
@@ -321,7 +339,7 @@
   
   <div class="pub-group fade-in">
     <div class="pub-group-label">Peer-Reviewed Journal Articles</div>
- 
+
 <!-- Article #3 -->    
     <div class="pub-card">
       <div class="pub-title">False memories: Subjective and objective responses to an "accented" voice assistant</div>
@@ -339,11 +357,11 @@
       </div>
       <div class="pub-abstract">
         <div class="pub-abstract-inner">
-          The default accent of voice assistants tends to be a standard variety of a language, and commentary around creating voice assistants (VAs) suggests that more regionally marked dialects are avoided for their more marked social associations and their (assumed) reduced intelligibility. In our study, participants “user-tested” two VAs, one with a Southern US English accent, and one with a Mainstream US English accent. Northern US participants evaluated the Southern VA more negatively and commented that she was harder to understand. On the other hand, Southern participants had mixed valence affective reactions to the Southern VA and International participants demonstrated no strong social associations with either accent, and both groups rarely mentioned intelligibility of either VA. Additionally, in a listening game (a short version of the DRM false memory paradigm), there were no significant effects of VA accent on real or false memories for any of the three participant groups. Our results add to work suggesting that while linguistic variation can lead to challenges in communication, intelligibility is often invoked too easily as a reason for exclusion. The potential benefits of and problems around expanding variation in the voices of voice assistants are also discussed.
+          The default accent of voice assistants tends to be a standard variety of a language, and commentary around creating voice assistants (VAs) suggests that more regionally marked dialects are avoided for their more marked social associations and their (assumed) reduced intelligibility. In our study, participants "user-tested" two VAs, one with a Southern US English accent, and one with a Mainstream US English accent. Northern US participants evaluated the Southern VA more negatively and commented that she was harder to understand. On the other hand, Southern participants had mixed valence affective reactions to the Southern VA and International participants demonstrated no strong social associations with either accent, and both groups rarely mentioned intelligibility of either VA. Additionally, in a listening game (a short version of the DRM false memory paradigm), there were no significant effects of VA accent on real or false memories for any of the three participant groups. Our results add to work suggesting that while linguistic variation can lead to challenges in communication, intelligibility is often invoked too easily as a reason for exclusion. The potential benefits of and problems around expanding variation in the voices of voice assistants are also discussed.
         </div>
       </div>
     </div>
- 
+
 <!-- Article #2 -->    
     <div class="pub-card">
       <div class="pub-title">Suppress or reappraise? Differential roles of maternal emotion regulation strategies in mothers' and toddlers' interactive and non-interactive screen media use</div>
@@ -361,11 +379,11 @@
       </div>
       <div class="pub-abstract">
         <div class="pub-abstract-inner">
-          Although parental emotional challenges and emotion-based media motivations are linked to screen media use patterns in families of toddlers, little work has examined parental emotion regulation strategies in relation to parents’ and toddlers’ screen media use. Because these strategies are modifiable components of how parents manage emotional demands, investigating them is an important next step for understanding factors associated with family media use and informing media guidance. The present study examined associations between maternal emotion regulation strategies (expressive suppression and cognitive reappraisal) and both maternal and toddlers’ screen media use, distinguishing between non-interactive and interactive forms given their differing implications for toddler development. Mothers of toddlers (18–36 months, N = 296) reported their emotion regulation strategies and both their own and their toddlers’ screen media use through an online survey. Data were analyzed using multivariable regression models, with additional analyses testing indirect associations. Results indicated that higher levels of maternal expressive suppression were associated with greater maternal non-interactive screen media use and with both types of toddlers’ screen media use. Higher levels of maternal non-interactive screen media use were linked to greater non-interactive and interactive screen media use among toddlers, whereas maternal interactive screen media use was not related to either form of toddlers’ screen media use. No significant associations were found between maternal cognitive reappraisal and maternal or toddlers’ screen media use. These findings highlight the differential roles of parental emotion regulation strategies in maternal and toddlers’ screen media use, particularly the distinct role of expressive suppression relative to cognitive reappraisal, and offer implications for supporting healthy family media practices.
+          Although parental emotional challenges and emotion-based media motivations are linked to screen media use patterns in families of toddlers, little work has examined parental emotion regulation strategies in relation to parents' and toddlers' screen media use. Because these strategies are modifiable components of how parents manage emotional demands, investigating them is an important next step for understanding factors associated with family media use and informing media guidance. The present study examined associations between maternal emotion regulation strategies (expressive suppression and cognitive reappraisal) and both maternal and toddlers' screen media use, distinguishing between non-interactive and interactive forms given their differing implications for toddler development. Mothers of toddlers (18–36 months, N = 296) reported their emotion regulation strategies and both their own and their toddlers' screen media use through an online survey. Data were analyzed using multivariable regression models, with additional analyses testing indirect associations. Results indicated that higher levels of maternal expressive suppression were associated with greater maternal non-interactive screen media use and with both types of toddlers' screen media use. Higher levels of maternal non-interactive screen media use were linked to greater non-interactive and interactive screen media use among toddlers, whereas maternal interactive screen media use was not related to either form of toddlers' screen media use. No significant associations were found between maternal cognitive reappraisal and maternal or toddlers' screen media use. These findings highlight the differential roles of parental emotion regulation strategies in maternal and toddlers' screen media use, particularly the distinct role of expressive suppression relative to cognitive reappraisal, and offer implications for supporting healthy family media practices.
         </div>
       </div>
     </div>
- 
+
 <!-- Article #1 -->
     <div class="pub-card">
       <div class="pub-title">Self-regulation profiles and social competence in early childhood: A person-centered approach</div>
@@ -383,7 +401,7 @@
       </div>
       <div class="pub-abstract">
         <div class="pub-abstract-inner">
-          Research Findings: Social competence in early childhood serves as a foundation for later developmental and academic outcomes. Although self-regulation is widely recognized as a key contributor to social competence, previous studies have primarily employed variable-centered approaches to examine the relation between self-regulation and social competence. In the current study, we adopted a person-centered approach to construct self-regulation profiles and examined the relation between these profiles and social competence. A total of 607 children (Mage = 56.89 months, 54% male) participated in the study, in which self-regulation was measured using performance-based assessments and social competence was assessed through teacher-reported measures. Latent profile analysis identified three self-regulation profiles: “optimal self-regulators” (71%), “moderate self-regulators” (12%), and “challenged self-regulators” (17%). The results indicated that children in the optimal self-regulators profile exhibited higher levels of social competence compared to those in the moderate and challenged self-regulator profiles. Practice or Policy: Findings highlight the need for tailoring self-regulation interventions to children’s distinct self-regulation profiles, as a one-size-fits-all approach may be less effective in promoting social competence.
+          Research Findings: Social competence in early childhood serves as a foundation for later developmental and academic outcomes. Although self-regulation is widely recognized as a key contributor to social competence, previous studies have primarily employed variable-centered approaches to examine the relation between self-regulation and social competence. In the current study, we adopted a person-centered approach to construct self-regulation profiles and examined the relation between these profiles and social competence. A total of 607 children (Mage = 56.89 months, 54% male) participated in the study, in which self-regulation was measured using performance-based assessments and social competence was assessed through teacher-reported measures. Latent profile analysis identified three self-regulation profiles: "optimal self-regulators" (71%), "moderate self-regulators" (12%), and "challenged self-regulators" (17%). The results indicated that children in the optimal self-regulators profile exhibited higher levels of social competence compared to those in the moderate and challenged self-regulator profiles. Practice or Policy: Findings highlight the need for tailoring self-regulation interventions to children's distinct self-regulation profiles, as a one-size-fits-all approach may be less effective in promoting social competence.
         </div>
       </div>
     </div>
@@ -493,6 +511,13 @@
     el.style.transitionDelay = `${(i % 4) * 70}ms`;
     observer.observe(el);
   });
+
+  function toggleAbstract(btn) {
+    const card = btn.closest('.pub-card');
+    const abstract = card.querySelector('.pub-abstract');
+    btn.classList.toggle('open');
+    abstract.classList.toggle('open');
+  }
 </script>
 
 </body>
